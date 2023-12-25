@@ -11,7 +11,7 @@ DOMAIN-KEYWORD,mixpanel
 DOMAIN-KEYWORD,signalfx
 DOMAIN-KEYWORD,adzerk
 DOMAIN-KEYWORD,latinpay
-
+DOMAIN-KEYWORD,paypal
 #直连碎片
 DOMAIN-SUFFIX,streamsb.net
 DOMAIN-KEYWORD,akamai-cdn-content
