@@ -56,3 +56,6 @@ DOMAIN-SUFFIX,abs.twimg.com
 DOMAIN-KEYWORD,twimg
 DOMAIN-KEYWORD,shuzijumin
 DOMAIN-KEYWORD,prexcard
+
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
