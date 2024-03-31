@@ -59,10 +59,10 @@ DOMAIN-KEYWORD,prexcard
 
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
-DOMAIN-KEYWORD,xn--ngstr-lra8j
-DOMAIN-KEYWORD,xn--ngstr-cn-8za9o.com
-DOMAIN-KEYWORD,superbed.cn
-DOMAIN-KEYWORD,duan.red
-DOMAIN-KEYWORD,docker.io
-DOMAIN-KEYWORD,registry-1.docker.io
+DOMAIN-SUFFIX,xn--ngstr-lra8j
+DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
+DOMAIN-SUFFIX,superbed.cn
+DOMAIN-SUFFIX,duan.red
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,registry-1.docker.io
 
