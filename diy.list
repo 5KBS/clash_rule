@@ -39,7 +39,6 @@ DOMAIN-KEYWORD,daisuki
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-KEYWORD,pinterest
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,safeum
@@ -63,6 +62,4 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j
 DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
 DOMAIN-SUFFIX,superbed.cn
 DOMAIN-SUFFIX,duan.red
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,registry-1.docker.io
 
