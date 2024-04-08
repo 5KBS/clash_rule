@@ -1,4 +1,4 @@
-# 自定义
+# 自定义走代理
 
 DOMAIN-SUFFIX,javgg.net
 DOMAIN-SUFFIX,javgiga.com
@@ -61,7 +61,7 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j
 DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
 DOMAIN-SUFFIX,superbed.cn
 DOMAIN-SUFFIX,duan.red
-DOMAIN-KEYWORD,themoviedb
-DOMAIN-KEYWORD,tmdb
-DOMAIN-KEYWORD,thetvdb
-DOMAIN-KEYWORD,fanart
+#DOMAIN-KEYWORD,themoviedb
+#DOMAIN-KEYWORD,tmdb
+#DOMAIN-KEYWORD,thetvdb
+#DOMAIN-KEYWORD,fanart
