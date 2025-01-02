@@ -62,8 +62,9 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j
 DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
 DOMAIN-SUFFIX,superbed.cn
 DOMAIN-SUFFIX,duan.red
+DOMAIN-KEYWORD,ptpimg
+
 #DOMAIN-KEYWORD,themoviedb
 #DOMAIN-KEYWORD,tmdb
 #DOMAIN-KEYWORD,thetvdb
 #DOMAIN-KEYWORD,fanart
-#DOMAIN-KEYWORD,ptpimg
